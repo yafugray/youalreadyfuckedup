@@ -1,0 +1,20 @@
+<div q> Questiong[0]
+
+onclick
+->
+if (myInput === answer[0])
+
+====
+
+<div q> Questiong[1]
+
+onclick
+->
+if (myInput === answer[1])
+====
+
+<div q> Questiong[2]
+
+onclick
+->
+if (myInput === answer[2])
